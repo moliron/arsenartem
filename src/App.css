@@ -39,9 +39,40 @@ body {
   align-items: center;
   gap: 20px;
 }
+
 .cart {
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 20px;
-  }
+}
+.img{
+ margin-left: -400px;
+}
+
+.link1{
+    font-size: 36px;
+    color: #68A47F;
+    margin-top: -650px;
+    margin-left: -150px;
+}
+.link2 {
+  margin-top: -50px;
+  margin-left: -150px;
+  font-size: 70px;
+}
+.mm{
+  background-color: #EFD372;
+  border-radius: 16px;
+  margin-top: -250px;
+  margin-left: -150px;
+}
+.fk{
+  margin-top: 350px;
+  margin-left: -150px;
+}
+
+.kk{
+  margin-left: 700px;
+  margin-top: -370px;
+}
